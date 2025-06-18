@@ -1,8 +1,8 @@
-Here’s a complete rewrite of the `README.md` file for your React + Vite project with Tailwind CSS installation and details about the packages used:
+Here’s a complete rewrite of the `README.md` file for your Paste App project with Tailwind CSS installation and details about the packages used:
 
 ---
 
-# React + Vite + TailwindCSS Template
+# Paste App
 
 This template provides a minimal setup for building a React application using Vite. It includes Hot Module Replacement (HMR) for fast refresh, Tailwind CSS for utility-first styling, and ESLint for code linting.
 
@@ -28,7 +28,7 @@ This template provides a minimal setup for building a React application using Vi
    ```
 
 2. When prompted, choose the following:
-   - Project name: `paste`
+   - Project name: `paste-app`
    - Framework: `React`
    - Variant: `JavaScript` or `TypeScript` as per your preference.
 
